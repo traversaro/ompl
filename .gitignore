@@ -15,3 +15,6 @@ py-bindings/ompl/bindings_generator.py
 *.so.*
 *.egg-info
 *.pyi
+# pixi environments
+.pixi
+*.egg-info
